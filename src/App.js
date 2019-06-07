@@ -16,6 +16,7 @@ function App() {
           <p>Keep your bishop pair, castle, develop your knights.  Move your central pawns.  Fight for the center. </p>
         </div>
       </div>
+      <a href="https://maxjann.com">MJ</a>
     </div>
   );
 }
