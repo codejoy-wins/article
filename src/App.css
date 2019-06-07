@@ -31,3 +31,21 @@
     transform: rotate(360deg);
   }
 }
+
+#img {
+  background-image: url("https://www.psychologicalscience.org/redesign/wp-content/uploads/2018/01/PAFF_012918_chessability-609x419.jpg");
+  height: 40vw;
+}
+#chess {
+  padding: 14vw;
+  font-size: 14vw;
+  opacity: .7;
+}
+#article {
+  padding: 4vw;
+}
+
+#jermaine {
+  padding: 1vw;
+  font-size: 3vw;
+}
