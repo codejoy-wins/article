@@ -40,6 +40,8 @@
   padding: 14vw;
   font-size: 14vw;
   opacity: .7;
+  font-family: 'Work Sans', sans-serif;
+
 }
 #article {
   padding: 4vw;
@@ -48,4 +50,10 @@
 #jermaine {
   padding: 1vw;
   font-size: 3vw;
+  font-family: 'Work Sans', sans-serif;
+}
+
+p {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 2vw;
 }

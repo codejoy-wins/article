@@ -11,6 +11,9 @@ function App() {
         </div>
         <div id="article">
           <span id="jermaine">Jermaine beats me by countering the King's Indian Defense</span>
+          <p>I am sick right now.  I've won like 8 games in a row on lichess and I'm around 1670 ELO at the moment, but I doubt I'd beat Jermaine.</p>
+          <p>John wants some opening knowledge so here it is:</p>
+          <p>I want to use google fonts with vw text that scales.</p>
         </div>
       </div>
     </div>
